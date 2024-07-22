@@ -24,6 +24,7 @@ members = [
   # libraries
   "meta",
   "router",
+  "leptos_dx_test",
 ]
 exclude = ["benchmarks", "examples"]
 
